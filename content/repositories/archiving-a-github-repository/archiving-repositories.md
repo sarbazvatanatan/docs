@@ -19,7 +19,7 @@ topics:
 ## About repository archival
 
 {% ifversion fpt or ghec %}
-{% note %}
+{% note %}k
 
 **Note:** If you have a legacy per-repository billing plan, you will still be charged for your archived repository. If you don't want to be charged for an archived repository, you must upgrade to a new product. For more information, see "[AUTOTITLE](/get-started/learning-about-github/githubs-plans)."
 
